@@ -10,5 +10,7 @@ DB를 사용해 데이터를 조회하거나 조작하는 기능을 전담하도
 ##
 
 JdbcUtil : db와 자바 연동 클래스
+
 MemberDao : DAO 클래스
+
 MemberDto : DTO 클래스
